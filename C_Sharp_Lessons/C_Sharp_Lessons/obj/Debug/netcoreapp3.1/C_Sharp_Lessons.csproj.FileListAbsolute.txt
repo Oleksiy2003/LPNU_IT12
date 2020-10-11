@@ -1,0 +1,14 @@
+C:\Code\C_Sharp_Lessons\C_Sharp_Lessons\bin\Debug\netcoreapp3.1\C_Sharp_Lessons.exe
+C:\Code\C_Sharp_Lessons\C_Sharp_Lessons\bin\Debug\netcoreapp3.1\C_Sharp_Lessons.deps.json
+C:\Code\C_Sharp_Lessons\C_Sharp_Lessons\bin\Debug\netcoreapp3.1\C_Sharp_Lessons.runtimeconfig.json
+C:\Code\C_Sharp_Lessons\C_Sharp_Lessons\bin\Debug\netcoreapp3.1\C_Sharp_Lessons.runtimeconfig.dev.json
+C:\Code\C_Sharp_Lessons\C_Sharp_Lessons\bin\Debug\netcoreapp3.1\C_Sharp_Lessons.dll
+C:\Code\C_Sharp_Lessons\C_Sharp_Lessons\bin\Debug\netcoreapp3.1\C_Sharp_Lessons.pdb
+C:\Code\C_Sharp_Lessons\C_Sharp_Lessons\obj\Debug\netcoreapp3.1\C_Sharp_Lessons.csprojAssemblyReference.cache
+C:\Code\C_Sharp_Lessons\C_Sharp_Lessons\obj\Debug\netcoreapp3.1\C_Sharp_Lessons.AssemblyInfoInputs.cache
+C:\Code\C_Sharp_Lessons\C_Sharp_Lessons\obj\Debug\netcoreapp3.1\C_Sharp_Lessons.AssemblyInfo.cs
+C:\Code\C_Sharp_Lessons\C_Sharp_Lessons\obj\Debug\netcoreapp3.1\C_Sharp_Lessons.dll
+C:\Code\C_Sharp_Lessons\C_Sharp_Lessons\obj\Debug\netcoreapp3.1\C_Sharp_Lessons.pdb
+C:\Code\C_Sharp_Lessons\C_Sharp_Lessons\obj\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll
+C:\Code\C_Sharp_Lessons\C_Sharp_Lessons\obj\Debug\netcoreapp3.1\C_Sharp_Lessons.csproj.ResolveComReference.cache
+C:\Code\C_Sharp_Lessons\C_Sharp_Lessons\bin\Debug\netcoreapp3.1\Interop.Microsoft.Office.Interop.Excel.dll

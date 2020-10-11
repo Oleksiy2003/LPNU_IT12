@@ -1,0 +1,14 @@
+C:\Code\TelegramBotTranslator\TelegramBotTranslator\bin\Debug\TelegramBotTranslator.exe.config
+C:\Code\TelegramBotTranslator\TelegramBotTranslator\bin\Debug\TelegramBotTranslator.exe
+C:\Code\TelegramBotTranslator\TelegramBotTranslator\bin\Debug\TelegramBotTranslator.pdb
+C:\Code\TelegramBotTranslator\TelegramBotTranslator\bin\Debug\Newtonsoft.Json.dll
+C:\Code\TelegramBotTranslator\TelegramBotTranslator\bin\Debug\Telegram.Bot.dll
+C:\Code\TelegramBotTranslator\TelegramBotTranslator\bin\Debug\Newtonsoft.Json.xml
+C:\Code\TelegramBotTranslator\TelegramBotTranslator\bin\Debug\Telegram.Bot.xml
+C:\Code\TelegramBotTranslator\TelegramBotTranslator\obj\Debug\TelegramBotTranslator.csprojAssemblyReference.cache
+C:\Code\TelegramBotTranslator\TelegramBotTranslator\obj\Debug\TelegramBotTranslator.Form1.resources
+C:\Code\TelegramBotTranslator\TelegramBotTranslator\obj\Debug\TelegramBotTranslator.Properties.Resources.resources
+C:\Code\TelegramBotTranslator\TelegramBotTranslator\obj\Debug\TelegramBotTranslator.csproj.GenerateResource.cache
+C:\Code\TelegramBotTranslator\TelegramBotTranslator\obj\Debug\TelegramBotTranslator.csproj.CopyComplete
+C:\Code\TelegramBotTranslator\TelegramBotTranslator\obj\Debug\TelegramBotTranslator.exe
+C:\Code\TelegramBotTranslator\TelegramBotTranslator\obj\Debug\TelegramBotTranslator.pdb

@@ -1,0 +1,14 @@
+C:\Code\Lessons\Lessons\bin\Debug\Lessons.exe.config
+C:\Code\Lessons\Lessons\bin\Debug\Lessons.exe
+C:\Code\Lessons\Lessons\bin\Debug\Lessons.pdb
+C:\Code\Lessons\Lessons\obj\Debug\Lessons.Form1.resources
+C:\Code\Lessons\Lessons\obj\Debug\Lessons.Properties.Resources.resources
+C:\Code\Lessons\Lessons\obj\Debug\Lessons.csproj.GenerateResource.cache
+C:\Code\Lessons\Lessons\obj\Debug\Lessons.exe
+C:\Code\Lessons\Lessons\obj\Debug\Lessons.pdb
+C:\Code\Lessons\Lessons\bin\Debug\WebDriver.dll
+C:\Code\Lessons\Lessons\bin\Debug\WebDriver.xml
+C:\Code\Lessons\Lessons\obj\Debug\Lessons.csproj.CopyComplete
+C:\Code\Lessons\Lessons\bin\Debug\AWSSDK.dll
+C:\Code\Lessons\Lessons\bin\Debug\AWSSDK.pdb
+C:\Code\Lessons\Lessons\obj\Debug\Lessons.csprojAssemblyReference.cache

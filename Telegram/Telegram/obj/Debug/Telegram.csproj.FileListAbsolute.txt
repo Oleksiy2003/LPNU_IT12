@@ -1,0 +1,14 @@
+C:\Code\Telegram\Telegram\bin\Debug\Telegram.exe.config
+C:\Code\Telegram\Telegram\bin\Debug\Telegram.exe
+C:\Code\Telegram\Telegram\bin\Debug\Telegram.pdb
+C:\Code\Telegram\Telegram\bin\Debug\Newtonsoft.Json.dll
+C:\Code\Telegram\Telegram\bin\Debug\Telegram.Bot.dll
+C:\Code\Telegram\Telegram\bin\Debug\Newtonsoft.Json.xml
+C:\Code\Telegram\Telegram\bin\Debug\Telegram.Bot.xml
+C:\Code\Telegram\Telegram\obj\Debug\Telegram.csprojAssemblyReference.cache
+C:\Code\Telegram\Telegram\obj\Debug\Telegram.Form1.resources
+C:\Code\Telegram\Telegram\obj\Debug\Telegram.Properties.Resources.resources
+C:\Code\Telegram\Telegram\obj\Debug\Telegram.csproj.GenerateResource.cache
+C:\Code\Telegram\Telegram\obj\Debug\Telegram.csproj.CopyComplete
+C:\Code\Telegram\Telegram\obj\Debug\Telegram.exe
+C:\Code\Telegram\Telegram\obj\Debug\Telegram.pdb

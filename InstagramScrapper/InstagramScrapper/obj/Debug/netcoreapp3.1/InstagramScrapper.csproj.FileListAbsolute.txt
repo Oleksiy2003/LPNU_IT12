@@ -1,0 +1,14 @@
+C:\Code\InstagramScrapper\InstagramScrapper\bin\Debug\netcoreapp3.1\InstagramScrapper.exe
+C:\Code\InstagramScrapper\InstagramScrapper\obj\Debug\netcoreapp3.1\InstagramScrapper.csprojAssemblyReference.cache
+C:\Code\InstagramScrapper\InstagramScrapper\obj\Debug\netcoreapp3.1\InstagramScrapper.AssemblyInfoInputs.cache
+C:\Code\InstagramScrapper\InstagramScrapper\obj\Debug\netcoreapp3.1\InstagramScrapper.AssemblyInfo.cs
+C:\Code\InstagramScrapper\InstagramScrapper\bin\Debug\netcoreapp3.1\InstagramScrapper.deps.json
+C:\Code\InstagramScrapper\InstagramScrapper\bin\Debug\netcoreapp3.1\InstagramScrapper.runtimeconfig.json
+C:\Code\InstagramScrapper\InstagramScrapper\bin\Debug\netcoreapp3.1\InstagramScrapper.runtimeconfig.dev.json
+C:\Code\InstagramScrapper\InstagramScrapper\bin\Debug\netcoreapp3.1\InstagramScrapper.dll
+C:\Code\InstagramScrapper\InstagramScrapper\bin\Debug\netcoreapp3.1\InstagramScrapper.pdb
+C:\Code\InstagramScrapper\InstagramScrapper\bin\Debug\netcoreapp3.1\HtmlAgilityPack.dll
+C:\Code\InstagramScrapper\InstagramScrapper\bin\Debug\netcoreapp3.1\System.Xml.XPath.XmlDocument.dll
+C:\Code\InstagramScrapper\InstagramScrapper\obj\Debug\netcoreapp3.1\InstagramScrapper.csproj.CopyComplete
+C:\Code\InstagramScrapper\InstagramScrapper\obj\Debug\netcoreapp3.1\InstagramScrapper.dll
+C:\Code\InstagramScrapper\InstagramScrapper\obj\Debug\netcoreapp3.1\InstagramScrapper.pdb

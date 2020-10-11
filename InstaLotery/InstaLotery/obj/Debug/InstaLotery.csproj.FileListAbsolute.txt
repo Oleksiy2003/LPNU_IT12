@@ -1,0 +1,14 @@
+C:\Code\InstaLotery\InstaLotery\bin\Debug\InstaLotery.exe.config
+C:\Code\InstaLotery\InstaLotery\bin\Debug\InstaLotery.exe
+C:\Code\InstaLotery\InstaLotery\bin\Debug\InstaLotery.pdb
+C:\Code\InstaLotery\InstaLotery\bin\Debug\Newtonsoft.Json.dll
+C:\Code\InstaLotery\InstaLotery\bin\Debug\WebDriver.dll
+C:\Code\InstaLotery\InstaLotery\bin\Debug\Newtonsoft.Json.xml
+C:\Code\InstaLotery\InstaLotery\bin\Debug\WebDriver.xml
+C:\Code\InstaLotery\InstaLotery\obj\Debug\InstaLotery.csprojAssemblyReference.cache
+C:\Code\InstaLotery\InstaLotery\obj\Debug\InstaLotery.Form1.resources
+C:\Code\InstaLotery\InstaLotery\obj\Debug\InstaLotery.Properties.Resources.resources
+C:\Code\InstaLotery\InstaLotery\obj\Debug\InstaLotery.csproj.GenerateResource.cache
+C:\Code\InstaLotery\InstaLotery\obj\Debug\InstaLotery.csproj.CopyComplete
+C:\Code\InstaLotery\InstaLotery\obj\Debug\InstaLotery.exe
+C:\Code\InstaLotery\InstaLotery\obj\Debug\InstaLotery.pdb
